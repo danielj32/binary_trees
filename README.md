@@ -4,7 +4,8 @@
 A binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
 
 ### Example how to open:
-	```
+	
+```
 	alex@/tmp/binary_trees$ cat 0-main.c 
 	#include <stdlib.h>
 	#include "binary_trees.h"
@@ -30,14 +31,14 @@ A binary tree is a tree data structure in which each node has at most two childr
 
 		binary_tree_print(root);
 		return (0);
-}
+	    }
 alex@/tmp/binary_trees$ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node
 alex@/tmp/binary_trees$ ./0-node
        .-------(098)-------.
          .--(012)--.         .--(402)--.
 	 (006)     (016)     (256)     (512)
 	alex@/tmp/binary_trees$
-	```
+```
 
 ### Contact Info:
 #### Git: danielj32
