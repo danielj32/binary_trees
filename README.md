@@ -1,4 +1,4 @@
-[Holberton school logo](https://upload.wikimedia.org/wikipedia/commons/f/fe/900-158_Ahnentafel_Herzog_Ludwig.jpg)
+![Holberton school logo](https://upload.wikimedia.org/wikipedia/commons/f/fe/900-158_Ahnentafel_Herzog_Ludwig.jpg)
 # 0x1D. C - Binary trees
 
 A binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
